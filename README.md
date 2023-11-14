@@ -8,3 +8,5 @@ Advantages include:
 - No breading to get soggy with the sauce
 - Chicken has the opportunity to sear
 - Less likely to set off **fire alarms**
+
+![](recipe.jpg)
